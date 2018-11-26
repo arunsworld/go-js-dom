@@ -4,7 +4,7 @@ Package dom provides GopherJS bindings for the JavaScript DOM APIs.
 
 ## Install
 
-    go get honnef.co/go/js/dom
+    go get github.com/arunsworld/go-js-dom
 
 ## Documentation
 
